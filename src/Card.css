@@ -1,6 +1,8 @@
 .Card {
-  display: inline-block;
-  margin: 10px;
   width: 226;
   height: 314;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
 }
